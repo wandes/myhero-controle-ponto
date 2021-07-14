@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.myhero.MyheroControlePontoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.635 s - in br.com.myhero.MyheroControlePontoApplicationTests
